@@ -4,5 +4,5 @@
 # day 0
 # virtual box installed (Dom error is occured)
  - kindly refer virtual box.jpeg
- - ubunyu iso
+ - ubuntu iso installed
 # Delay due to crash in computer during unzip ubuntu iso
