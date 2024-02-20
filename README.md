@@ -6,4 +6,4 @@
  - 	kindly refer virtual box.jpeg
  - 	 Ubuntu installed
 
-# Delay due to crash in computer during unzip ubuntu iso
+
