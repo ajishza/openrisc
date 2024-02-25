@@ -9,7 +9,7 @@ This repository is intended to document the learning outcomes and experience of 
 #### task 1
  - Instruction Type 
  - instuction byte
-#### task 1
+#### task 2
  - lab1 
  - refer lab1.md
    
