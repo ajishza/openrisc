@@ -10,7 +10,7 @@ This repository is intended to document the learning outcomes and experience of 
  - Instruction Type 
  - instuction byte
 #### task 2
- - lab1 
- - refer lab1.md
+ - C Lab OPENRISC assigmnment
+ - Refer Iverilog.doc
    
 
