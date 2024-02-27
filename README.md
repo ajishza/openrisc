@@ -5,7 +5,7 @@ This repository is intended to document the learning outcomes and experience of 
 
 ### Day 0
 - Virtual Box installed
-- all tools is installed 
+- all toolss installed 
 - refer instalation.md file in github
 #### task 1
  - Instruction Type 
