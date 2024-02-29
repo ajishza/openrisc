@@ -6,7 +6,7 @@ This repository is intended to document the learning outcomes and experience of 
 ### Day 0
 - Virtual Box installed
 - all toolss installed 
-- refer instalation.md file in github
+- Refer instalation.md file in github
 #### task 1
  - Instruction Type 
  - instuction byte
@@ -16,6 +16,6 @@ This repository is intended to document the learning outcomes and experience of 
  - Refer Iverilog.doc
 #### task 3
 -  Spike simulataion
--  Reger the document spike_simulation.docx
+-  Refer the document spike_simulation.docx
    
 
