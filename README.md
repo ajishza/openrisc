@@ -36,10 +36,10 @@ chmod -R 777 /home/work/riscv
 
 
 
-#### task 1
+#### task 2
  - Instruction Type 
  - instuction byte
- - Refer Instructioncode_updated.docx
+ - 
 #### task 2
  - C Lab  & OPENRISC assigmnment
  - Refer Iverilog.doc
