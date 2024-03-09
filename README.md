@@ -33,7 +33,7 @@ chmod -R 777 /home/work/riscv
 ./configure --prefix=/home/work/riscv
 
 ```
-### OpenSTA
+
 
 
 #### task 1
