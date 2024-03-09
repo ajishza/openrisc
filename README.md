@@ -37,10 +37,21 @@ chmod -R 777 /home/work/riscv
 
 
 #### task 2
- - Instruction Type 
- - instuction byte
+
+There are 6 instruction formats 
+1. Register type formats : This uses 3 register inputs Eg : add, mul, AND - All are basically arithmetic and logical operations
+ Eg: add r6,r2,r1   r1 and r2 are source registers and r6 is destination register
+2: I-type: immediate and load operations 
+Eg: addi r12,r4,5
+    lw x14,x2,8
+3. S-type: store operations 
+Eg: sw x12, x2,8
+4. B-type: conditional branch operations 
+Eg: beq r0, r0 ,15
+    bne r0, r1,20
+5. U-type: long immediate operation
  - 
-#### task 2
+#### task 3
  - C Lab  & OPENRISC assigmnment
  - Refer Iverilog.doc
 #### task 3
