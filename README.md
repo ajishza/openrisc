@@ -3,10 +3,17 @@
 
 This repository is intended to document the learning outcomes and experience of a 4-week workshop on RISC-V.
 
-### Day 0
-- Virtual Box installed
-- all toolss installed
-- # task 0
+#### TASK 1: 
+
+1. Create GitHub repo. 
+2. Need to have Windows OS, 1TB HDD, 16GB RAM.
+3. Allocate 8GB RAM, 100GB HDD for Oracle Virtual Machine 
+4. install RISC-V GNU Toolchain first, then install Yosys, iverilog, gtkwave. 
+5. Refer to this course :VSD - A complete guide to install open-source EDA tools to install Ubuntu 20.04 using Virtual Box
+
+
+
+
 # installation of tools
 
 ```
@@ -28,7 +35,7 @@ chmod -R 777 /home/work/riscv
 ```
 ### OpenSTA
 
-- Refer instalation.md file in github
+
 #### task 1
  - Instruction Type 
  - instuction byte
