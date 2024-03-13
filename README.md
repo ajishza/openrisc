@@ -54,7 +54,7 @@ Eg: beq r0, r0 ,15
 #### task 3
  - C Lab  & OPENRISC assigmnment
  - Refer Iverilog.doc
-#### task 3
+#### task 4
 -  Spike simulataion
 -  Refer the document spike_simulation.docx
    
